@@ -1,0 +1,21 @@
+{
+    "name": "api_native",
+    "version": "1.0.0",
+    "description": "",
+    "main": "async_await.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "picocolors": "^1.0.0"
+    },
+    "devDependencies": {
+        "standard": "^17.1.0"
+    },
+    "eslintConfig": {
+        "extends": "standard"
+    }
+}
