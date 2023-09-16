@@ -1,0 +1,17 @@
+## Get info
+GET http://127.0.0.1:3000/
+
+### Para crear un pokemon
+
+POST http://127.0.0.1:3000/pokemon
+Content-Type: application/json
+
+{
+    "name": "ditto",
+    "type": "normal",
+    "moves":[
+        "transform"
+    ]
+}
+
+## Siguiente requres
